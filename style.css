@@ -65,6 +65,9 @@ main {
   .step-box:last-child{
     margin:0 auto;
   }
+  main {
+    width: 90%;
+  }
 
   }
 }
